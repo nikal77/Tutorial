@@ -18,4 +18,3 @@ public class Main {
         System.out.println(java.util.Arrays.toString(filterEvenIndexOddValue(arr3)));
     }
 }
-1234
